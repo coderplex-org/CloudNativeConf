@@ -1,2 +1,2 @@
-# Cloudfest
-A mini cloud conference 
+# CloudNativeConf
+A cloud native conference 
